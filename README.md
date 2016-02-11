@@ -19,11 +19,11 @@ $ scons
 ```
 Röle Kartı Kontrolü için.
 ```sh
-$ https://github.com/skiwithpete/relaypi
+https://github.com/skiwithpete/relaypi
 ```
 DHT22 Isı ve Nem Sensörü İçin Kütüphane.
 ```sh
-$ git clone https://github.com/adafruit/Adafruit_Python_DHT.git
+git clone https://github.com/adafruit/Adafruit_Python_DHT.git
 ```
 
 ### Version
